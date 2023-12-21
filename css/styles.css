@@ -160,8 +160,8 @@ ul {
 
 /* ---------section-two------------ */
 /* ---------section-three---------- */
-.Our-Team {
-  background: #ffffff;
+.hero-team {
+  background: #f4f4fd;
 }
 
 .Our-Team-title {
@@ -204,7 +204,7 @@ ul {
   background: #fff;
 }
 
-.our-Portfolio-title {
+.hero-portfolio {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
