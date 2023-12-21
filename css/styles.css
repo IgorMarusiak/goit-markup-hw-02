@@ -164,7 +164,7 @@ ul {
   background: #f4f4fd;
 }
 
-.Our-Team-title {
+.hero-team-title {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -174,14 +174,14 @@ ul {
   text-transform: capitalize;
 }
 
-.Our-Team-list {
+.hero-team-list {
   background-color: #ffffff;
 }
 
-.Our-Team-item {
+.our-team-item {
 }
 
-.Our-Team-Members {
+.our-team-members {
   color: #2e2f42;
   text-align: center;
   font-size: 20px;
@@ -190,7 +190,7 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.Team-Members-info {
+.tteam-members-info {
   color: #434455;
   text-align: center;
   font-size: 16px;
@@ -200,7 +200,7 @@ ul {
 }
 /* ---------section-three---------- */
 /* -----------section-four--------- */
-.our-Portfolio {
+.our-portfolio {
   background: #fff;
 }
 
@@ -214,11 +214,11 @@ ul {
   text-transform: capitalize;
 }
 
-.our-Portfolio-list {
+.our-portfolio-list {
   background: #fff;
 }
 
-.our-Portfolio-item {
+.our-portfolio-item {
 }
 
 .our-portfolio-app {
