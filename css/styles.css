@@ -1,5 +1,5 @@
 /* ----------body------------ */
-body {
+.body {
   font-family: 'Roboto', sans-serif;
     color: #434455
     background-color  #FFFFFF
@@ -34,7 +34,7 @@ color: #4D5AE5;
 font-family: 'Raleway' , sans-serif
 font-size: 18px;
 font-weight: 700;
-line-height: 1,17;
+line-height: 1.17;
 letter-spacing: 0.03em
 text-transform: uppercase;
 }
@@ -43,7 +43,7 @@ color: #2E2F42;
 font-family: 'Raleway' , sans-serif
 font-size: 18px;
 font-weight: 700;
-line-height: 1,17;
+line-height: 1.17;
 letter-spacing: 0.03em
 text-transform: uppercase;
 }
@@ -56,7 +56,7 @@ text-transform: uppercase;
 color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em
 }
 
@@ -82,7 +82,7 @@ letter-spacing: 0.02em
   color: #434455;
 font-size: 16px;
 font-weight: 400;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em
 }
 
@@ -110,8 +110,8 @@ color: #ffffff;
 text-align: center;
 font-size: 56px;
 font-weight: 700;
-line-height: 1,07;
-letter-spacing: 0,02em
+line-height: 1.07;
+letter-spacing: 0.02em
 }
 
 .hero-service-btm {
@@ -120,11 +120,13 @@ font-family: 'Roboto' , sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 1,15
+line-height: 1.15
 letter-spacing: 0.04em
 cursor:pointer;
 }
-
+.hero-service-btm{
+  background-color: #4D5AE5;
+}
 .hero-service-btm:hover {
 background-color: #404BBF
 }
@@ -149,22 +151,22 @@ background-color: #404BBF
   color:  #2E2F42;
 font-size: 20px;
 font-weight: 500;
-line-height: 1,2;
-letter-spacing: 0,02em
+line-height: 1.2;
+letter-spacing: 0.02em
 }
 
 .features-item-text {
   color: #434455;
 font-size: 16px;
 font-weight: 400;
-line-height: 1,5;
-letter-spacing: 0,02em
+line-height: 1.5;
+letter-spacing: 0.02em
 }
 
 /* ---------section-two------------ */
 /* ---------section-three---------- */
 .Our-Team {
-  background: #F4F4FD;
+  background:  #FFFFFF;
 }
 
 .Our-Team-title {
@@ -172,7 +174,7 @@ letter-spacing: 0,02em
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1,11;
+line-height: 1.11;
 letter-spacing: 0.02em
 text-transform: capitalize;
 }
@@ -189,8 +191,8 @@ background-color: #FFFFFF
 text-align: center;
 font-size: 20px;
 font-weight: 500;
-line-height: 1,2;
-letter-spacing: 0,02em
+line-height: 1.2;
+letter-spacing: 0.02em
 }
 
 .Team-Members-info {
@@ -198,38 +200,38 @@ letter-spacing: 0,02em
 text-align: center;
 font-size: 16px;
 font-weight: 400;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em
 }
 /* ---------section-three---------- */
 /* -----------section-four--------- */
-.Our-Portfolio {
+.our-Portfolio {
   background: #FFF;
 }
 
-.Our-Portfolio-title {
+.our-Portfolio-title {
   color: #2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1,11;
+line-height: 1.11;
 letter-spacing: 0.02em
 text-transform: capitalize;
 }
 
-.Our-Portfolio-list {
+.our-Portfolio-list {
 background: #FFF;
 }
 
-.Our-Portfolio-item {
+.our-Portfolio-item {
 
 }
 
-.Our-portfolio-app {
+.our-portfolio-app {
 color:  #2E2F42;
 font-size: 20px;
 font-weight: 500;
-line-height: 1,2;
+line-height: 1.2;
 letter-spacing: 0.02em
 }
 
@@ -237,7 +239,7 @@ letter-spacing: 0.02em
   color: #434455;
 font-size: 16px;
 font-weight: 400;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em
 }
 
@@ -265,7 +267,7 @@ text-transform: uppercase;
 font-family: 'Raleway' , sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1,17;
+line-height: 1.17;
 letter-spacing: 0.03em
 text-transform: uppercase;
 }
@@ -274,7 +276,7 @@ text-transform: uppercase;
 color:  #F4F4FD;
 font-size: 16px;
 font-weight: 400;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em
 }
 /* ------------footer---------- */
